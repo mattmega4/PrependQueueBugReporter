@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>kTCCServiceMediaLibrary</key>
+	<string>Allow access to play songs</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Allow access to play songs</string>
 </dict>
 </plist>
